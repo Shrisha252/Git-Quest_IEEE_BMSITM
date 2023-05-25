@@ -1,0 +1,30 @@
+Task 1: Fork the Repository
+•	Fork the given repository to your GitHub account.
+•	This can be done by navigating to the original repository and clicking on the "Fork" button.
+
+Task 2: Add a File to Add Two Numbers
+•	Clone the forked repository to your local machine.
+•	Create a new file named "add_numbers.py" in the cloned repository.
+•	Write a Python program in the "add_numbers.py" file to add two numbers and print the result.
+•	Commit the changes with an appropriate commit message.
+
+Task 3: Create a Branch
+•	Create a new branch in the repository.
+•	The branch can be named anything you prefer.
+•	Switch to the newly created branch to work on the next task.
+
+Task 4: Create a File to Display Your Name
+•	In the newly created branch, create another file named "display_name.txt".
+•	Inside the "display_name.txt" file, write your name.
+•	Commit the changes with an appropriate commit message.
+
+Task 5: Generate a Pull Request
+•	Push the branch with the added files to your forked repository.
+•	Go to the original repository on GitHub and create a new pull request.
+•	Select your branch as the source branch and the main repository as the destination branch.
+•	Provide a brief description of the changes made and submit the pull request.
+
+
+
+
+GLHF
